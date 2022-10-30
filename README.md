@@ -5,13 +5,13 @@
 
 I 
 
-- 🔭 I’m currently working on a React project to create a SPA that renders Simpsons quotes from an API source.
+- 🔭 I’m currently working on a set of casino and card games in React
 
-- 🌱 I’m currently learning fullstack web development at thejump.tech digital academy
+- 🌱 I’m currently building as many varied and challenging projects as I can as I seek to build on my knowledge of fullstack web development after completing a 30 week bootcamp at thejump.tech digital school. 
 
 - 👯 I’m looking to collaborate on anything and everything
 
-- 🤔 I’m looking for help with - as a new programmer comments and suggestions on any of my projects from more experienced developers are gratefully recieved.
+- 🤔 I’m looking for help with - as a new programmer comments and suggestions on any of my projects from more experienced developers are gratefully received.
 
 - 💬 Ask me about Rick and Morty trivia
 
